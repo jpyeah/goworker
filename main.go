@@ -1,9 +1,13 @@
 package main
 
 import (
-	"fmt"
+	c "github.com/jpyeah/goworker/controller"
 )
 
 func main () {
-	fmt.Println("helle world");
+
+	b :=&c.Brand{}
+
+	b.Fetch()
+
 }

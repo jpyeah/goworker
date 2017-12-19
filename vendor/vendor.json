@@ -1,0 +1,95 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "appengine/cloudsql",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "cu3vGt/MP5WOcnbCzPPzezR6EHo=",
+			"path": "github.com/denisenkom/go-mssqldb",
+			"revision": "8a15d1bb0c8eaa4b870c016b312de5b50b493b4e",
+			"revisionTime": "2017-12-04T17:36:08Z"
+		},
+		{
+			"checksumSHA1": "Z6rD6bmF8InGLXM7EHr8TMxMXNY=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "9181e3a86a19bacd63e68d43ae8b7b36320d8092",
+			"revisionTime": "2017-12-04T00:43:26Z"
+		},
+		{
+			"path": "github.com/go-xorm/builder",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "FB+W+dQrjeiz+JQHfVlnu1P1GHg=",
+			"path": "github.com/go-xorm/cmd/xorm",
+			"revision": "a40e35fe0b1142850d2566038f4e85e9c47add72",
+			"revisionTime": "2017-08-16T08:45:09Z"
+		},
+		{
+			"path": "github.com/go-xorm/core",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "9AsoKeO7wYfFEPuU4fYhbJR50wE=",
+			"path": "github.com/go-xorm/xorm",
+			"revision": "2bfe0b4d5e92dd9c93f2fd33c86b13838d8c0e25",
+			"revisionTime": "2017-12-13T15:04:41Z"
+		},
+		{
+			"checksumSHA1": "IfZcD4U1dtllJKlPNeD2aU4Jn98=",
+			"path": "github.com/lib/pq",
+			"revision": "83612a56d3dd153a94a629cd64925371c9adad78",
+			"revisionTime": "2017-11-26T05:04:59Z"
+		},
+		{
+			"path": "github.com/lib/pq/oid",
+			"revision": "83612a56d3dd153a94a629cd64925371c9adad78"
+		},
+		{
+			"checksumSHA1": "b8WH+svW1ec8iQYPa+qNxmn+FvM=",
+			"path": "github.com/lunny/log",
+			"revision": "7887c61bf0de75586961948b286be6f7d05d9f58",
+			"revisionTime": "2016-09-21T05:09:05Z"
+		},
+		{
+			"path": "github.com/mattn/go-sqlite3",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "QptO0AepiRNzesHimvUfeXmJp/c=",
+			"path": "github.com/urfave/cli",
+			"revision": "39908eb08fee7c10d842622a114a5c133fb0a3c6",
+			"revisionTime": "2017-12-12T16:34:29Z"
+		},
+		{
+			"checksumSHA1": "2TJV/f15/49inUOLH5hJK+nkRNw=",
+			"path": "github.com/ziutek/mymysql/godrv",
+			"revision": "ff6cc86d3d933e6c0e3185a19fb46e171a7651b2",
+			"revisionTime": "2017-12-17T23:40:33Z"
+		},
+		{
+			"path": "github.com/ziutek/mymysql/mysql",
+			"revision": ""
+		},
+		{
+			"path": "github.com/ziutek/mymysql/native",
+			"revision": ""
+		},
+		{
+			"path": "golang.org/x/crypto/md4",
+			"revision": ""
+		},
+		{
+			"path": "golang.org/x/net/context",
+			"revision": ""
+		},
+		{
+			"path": "google.golang.org/appengine/cloudsql",
+			"revision": ""
+		}
+	],
+	"rootPath": "github.com/jpyeah/goworker"
+}
